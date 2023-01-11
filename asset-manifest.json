@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/memoryCardPickOnce/static/css/main.e5573abc.css",
+    "main.js": "/memoryCardPickOnce/static/js/main.8d0226e9.js",
+    "static/media/Back Blue 1.png": "/memoryCardPickOnce/static/media/Back Blue 1.34fe6954b3ee086eddc1.png",
+    "index.html": "/memoryCardPickOnce/index.html",
+    "main.e5573abc.css.map": "/memoryCardPickOnce/static/css/main.e5573abc.css.map",
+    "main.8d0226e9.js.map": "/memoryCardPickOnce/static/js/main.8d0226e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5573abc.css",
+    "static/js/main.8d0226e9.js"
+  ]
+}
